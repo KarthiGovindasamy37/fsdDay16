@@ -1,0 +1,7 @@
+.asterisk:after{
+    content: "*";
+    color:red;
+  }
+  .error{
+    color: red;
+  }
